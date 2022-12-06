@@ -1,6 +1,7 @@
 # Examen Final
 
 ## Sistemas Operativos
+![Tux, the Linux mascot](/assets/prueba/inicio.png) 
 ## Jorge David Blanco Contreras
 ## 2 de noviembre del 2022
 ## 12077
