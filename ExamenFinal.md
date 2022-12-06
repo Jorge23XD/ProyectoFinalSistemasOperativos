@@ -400,6 +400,3 @@ Instalando
 
 
 
-
-
-**Listo**
