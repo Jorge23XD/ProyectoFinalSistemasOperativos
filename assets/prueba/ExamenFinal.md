@@ -11,9 +11,7 @@
 
 ## Open Source
 > Es un modelo de desarrollo de software basado en la colaboración abierta. Se enfoca en los beneficios prácticos (acceso al código fuente) y en cuestiones éticas o de libertad que tanto se destacan en el software libre.
-
-
-![Tux, the Linux mascot](/assets/prueba/OpenSource.png) 
+![Tux, the Linux mascot]![Tux, the Linux mascot](/assets/prueba/OpenSource.png) 
 
 ## Historia de MacOS
 
