@@ -36,7 +36,7 @@ En 2015, con Mac OS X 10.11 El Capitan Apple, optó por centrarse en cambios en 
 
 
 
-## Historia de Ubuntu![Tux, the Linux mascot](/assets/prueba/ubuntu.png) 
+## Historia de Ubuntu ![Tux, the Linux mascot](/assets/prueba/ubuntu.png) 
 
 ```sh
 El 8 de julio de 2004, Mark Shuttleworth y la empresa Canonical Ltd. anunciaron la creación de la distribución Ubuntu. Ésta tuvo una financiación inicial de 10 millones de dólares (US$). El proyecto nació por iniciativa de algunos programadores de los proyectos Debian, Gnome porque se encontraban decepcionados con la manera de operar del proyecto Debian, la distribución Linux sin ánimo de lucro más popular del mundo.
@@ -62,7 +62,7 @@ Como en los lanzamientos previos, Feisty permite la actualización directa a par
 
 
 ```
-## Historia de Windows
+## Historia de Windows ![Tux, the Linux mascot](/assets/prueba/windows-logos.png) 
 
 ```sh
 En 1975 Bill Gates y Paul Allen fundaron la compañía Microsoft en Estados Unidos, con el objetivo de desarrollar y comercializar programas para ejecutar el Altair 8800, un microordenador diseñado en 1974. Gates y Allen desarrollaron el primer lenguaje de programación para el Altair Basic.
