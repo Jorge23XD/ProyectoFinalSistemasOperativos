@@ -18,63 +18,25 @@
 
 ## Historia de MacOS ![Tux, the Linux mascot](/assets/prueba/evolucion_Mac.png) 
 
-```sh
-La primera vez que se habla del SO de Apple se hace referencia a los primeros años de la empresa, allá por 1984. En esa época se desarrolló la primera versión de Mac OS. Este sistema operativo fue en el que se basaron los ordenadores Apple durante más de dos décadas.
 
-La marcha de Steve Jobs tras ser despedido por su propia compañía en 1985 es uno de los hechos que más se recuerdan en la historia de Apple. El cofundador de Apple no se resignó, y se decidió a armar con un socio una compañía llamada NeXT. Aunque en sus inicios vendían hardware muy avanzado para la época, lo importante de esta empresa es lo que significó, décadas más tarde, para el desarrollo del sistema operativo de escritorio de Apple.
+> La primera vez que se habla del SO de Apple se hace referencia a los primeros años de la empresa, allá por 1984. En esa época se desarrolló la primera versión de Mac OS. Este sistema operativo fue en el que se basaron los ordenadores Apple durante más de dos décadas.
+La marcha de Steve Jobs tras ser despedido por su propia compañía en 1985 es uno de los hechos que más se recuerdan en la historia de Apple. El cofundador de Apple no se resignó, y se decidió a armar con un socio una compañía llamada NeXT. Aunque en sus inicios vendían hardware muy avanzado para la época, lo importante de esta empresa es lo que significó, décadas más tarde, para el desarrollo del sistema operativo de escritorio de Apple. Mac OS X Server 1.0, nombre en código de esta versión fue Hera, se lanzó oficialmente el 16 de marzo de 1999 y su última actualización fue presentada poco antes del siguiente lanzamiento, el 27 de octubre del 2000 (Fue la 1.2v3). Esta versión solamente fue utilizada internamente por Apple, para testar precisamente el gran cambio que se dio desde Mac OS 9. Hay que esperar a la siguiente actualización para que el público tenga acceso a ella. OPENSTEP pasó a ser la base de la plataforma MAC OS X, lanzada en 2001 para el público. Tanto es así que todavía hoy en día se pueden ver algunas de esas claves en el sistema operativo más actual de Apple. ¿Un ejemplo? El comando defaults de Mac OS X está declarado oficialmente por la marca como componente inicial de NeXTStep. En 2007, surgio Mac OS X 10.5 Leopard, Apple la definió como la mayor de la historia de Mac OS X (Recordemos que la más grande fue el salto de Mac OS 9 a Mac OS X). Se incorporaron en total unas 300 nuevas funciones. Hay que tener en cuenta que ésta sería la última versión de Apple en dar soporte a PowerPC. Al mismo tiempo, fue también la primera en abandonar el Entorno Classic. Obtuvo la certificación de Intel y fue el primer SO basado en BSD que recibió certificado UNIX 03. En 2009 salio Mac OS 10.6 Snow Leopard, que a diferencia de las versiones anteriores, que se centraron en cambios estéticos y funcionales que el usuario veía a simple vista, en este caso  las diferencias se notan en el interior. Hubo cambios importantes en la arquitectura que permitieron mejorar notablemente el rendimiento, la estabilidad y la eficiencia del sistema operativo. En 2012, la versión Mac OS X 10.8 Mountain Lion fue con la que llegó, por primera vez, la integración de iOS. Sería el primer paso para ver cómo iPhone e iPad trabajaban conjuntamente con Mac. Otra de las cosas que aparecieron por primera vez fue la potenciación del uso de la nube. iCloud tenía mucho más sentido al integrar la suite ofimática de iWork. En 2015, con Mac OS X 10.11 El Capitan Apple, optó por centrarse en cambios en el rendimiento y mejoras en la interfaz de usuario. Muchos fueron los que se sorprendieron con el nombre, porque tras Mavericks, se esperaba que Yosemite supusiese una nueva rutina Apple y comenzase a llamar a las siguientes versiones con nombres de parques naturales. No fue así.
 
-Mac OS X Server 1.0, nombre en código de esta versión fue Hera, se lanzó oficialmente el 16 de marzo de 1999 y su última actualización fue presentada poco antes del siguiente lanzamiento, el 27 de octubre del 2000 (Fue la 1.2v3). Esta versión solamente fue utilizada internamente por Apple, para testar precisamente el gran cambio que se dio desde Mac OS 9. Hay que esperar a la siguiente actualización para que el público tenga acceso a ella.
-OPENSTEP pasó a ser la base de la plataforma MAC OS X, lanzada en 2001 para el público. Tanto es así que todavía hoy en día se pueden ver algunas de esas claves en el sistema operativo más actual de Apple. ¿Un ejemplo? El comando defaults de Mac OS X está declarado oficialmente por la marca como componente inicial de NeXTStep.
-En 2007, surgio Mac OS X 10.5 Leopard, Apple la definió como la mayor de la historia de Mac OS X (Recordemos que la más grande fue el salto de Mac OS 9 a Mac OS X). Se incorporaron en total unas 300 nuevas funciones. Hay que tener en cuenta que ésta sería la última versión de Apple en dar soporte a PowerPC. Al mismo tiempo, fue también la primera en abandonar el Entorno Classic. Obtuvo la certificación de Intel y fue el primer SO basado en BSD que recibió certificado UNIX 03.
-
-En 2009 salio Mac OS 10.6 Snow Leopard, que a diferencia de las versiones anteriores, que se centraron en cambios estéticos y funcionales que el usuario veía a simple vista, en este caso  las diferencias se notan en el interior. Hubo cambios importantes en la arquitectura que permitieron mejorar notablemente el rendimiento, la estabilidad y la eficiencia del sistema operativo.
-
-En 2012, la versión Mac OS X 10.8 Mountain Lion fue con la que llegó, por primera vez, la integración de iOS. Sería el primer paso para ver cómo iPhone e iPad trabajaban conjuntamente con Mac. Otra de las cosas que aparecieron por primera vez fue la potenciación del uso de la nube. iCloud tenía mucho más sentido al integrar la suite ofimática de iWork.
-
-En 2015, con Mac OS X 10.11 El Capitan Apple, optó por centrarse en cambios en el rendimiento y mejoras en la interfaz de usuario. Muchos fueron los que se sorprendieron con el nombre, porque tras Mavericks, se esperaba que Yosemite supusiese una nueva rutina Apple y comenzase a llamar a las siguientes versiones con nombres de parques naturales. No fue así.
-```
 
 
 
 ## Historia de Ubuntu ![Tux, the Linux mascot](/assets/prueba/ubuntu.png) 
 
-```sh
-El 8 de julio de 2004, Mark Shuttleworth y la empresa Canonical Ltd. anunciaron la creación de la distribución Ubuntu. Ésta tuvo una financiación inicial de 10 millones de dólares (US$). El proyecto nació por iniciativa de algunos programadores de los proyectos Debian, Gnome porque se encontraban decepcionados con la manera de operar del proyecto Debian, la distribución Linux sin ánimo de lucro más popular del mundo.
 
-De acuerdo con sus fundadores, Debian era un proyecto demasiado burocrático donde no existían responsabilidades definidas y donde cualquier propuesta interesante se ahogaba en un mar de discusiones. Asimismo, Debian no ponía énfasis en estabilizar el desarrollo de sus versiones de prueba y sólo proporcionaba auditorías de seguridad a su versión estable, la cual era utilizada sólo por una minoría debido a la poca o nula vigencia que poseía en términos de la tecnología Linux actual.
-
-Tras formar un grupo multidisciplinario, los programadores decidieron buscar el apoyo económico de Mark Shuttleworth, un emprendedor sudafricano que vendió la empresa Thawte a VeriSign, cuatro años después de fundarla en el garaje de su domicilio, por 575 millones de dólares estadounidenses.
-
-Shuttleworth vio con simpatía el proyecto y decidió convertirlo en una iniciativa auto sostenible, combinando su experiencia en la creación de nuevas empresas con el talento y la experiencia de los programadores de la plataforma Linux. De esta forma nació la empresa Canonical, la cual se encarga de sostener económicamente el proyecto mediante la comercialización de servicios y soporte técnico a otras empresas. Mientras los programadores armaban el sistema, Shuttleworth aprovechó la ocasión para aplicar una pequeña campaña de mercadotecnia para despertar interés en "la distribución-sin-nombre" (en inglés: the no-name-distro).
-Tras varios meses de trabajo y un breve período de pruebas, la primera versión de Ubuntu (Warty Warthog) fue lanzada el 20 de octubre de 2004.
-
-Ubuntu es un sistema operativo basado en Linux y que se distribuye como software libre, el cual incluye su propio entorno de escritorio denominado Unity. Su nombre proviene de la ética homónima, en la que se habla de la existencia de uno mismo como cooperación de los demás.
-
-Está orientado al usuario novel y promedio, con un fuerte enfoque en la facilidad de uso y en mejorar la experiencia de usuario. Está compuesto de múltiple software normalmente distribuido bajo una licencia libre o de código abierto. Estadísticas web sugieren que la cuota de mercado de Ubuntu dentro de las distribuciones Linux es, aproximadamente, del 49%, y con una tendencia a aumentar como servidor web. Y un importante incremento activo de 20 millones de usuarios para fines del 2011.
-
-Cada lanzamiento de Ubuntu posee un nombre en clave, como también un número de versión basado en el año y el mes del lanzamiento. Por ejemplo, la versión 5.04 fue lanzada en abril de 2005. Cada versión de Ubuntu es lanzada con seis meses de diferencia con respecto al último lanzamiento, aunque el lanzamiento de la versión 6.06 se demoró más de seis meses, debido a que Canonical Ltd. quería desarrollar una distribución a la que fuera posible dar soporte técnico durante tres años en el escritorio y cinco años en el servidor.
-
-Canonical provee de soporte técnico y actualizaciones de la seguridad para la mayoría de las versiones de Ubuntu durante 18 meses, a partir de la fecha del lanzamiento. Actualmente existen tres versiones de Ubuntu que cuentan con soporte técnico: la versión 6.06 LTS (Long term support), la versión 6.10 y la versión 7.04.
-
-La versión reciente es la 7.04, cuyo nombre en clave es "Feisty Fawn". Este lanzamiento incluyó un reemplazo del demonio init llamado Upstart, así como mejoras en el uso de la memoria de softwares como Evolution y Nautilus. Además incluyó GNOME 2.18.1, Mozilla Firefox 2.0.0.3, OpenOffice.org 2.2, Xorg 7.2, GCC 4.1.1, y la versión 2.6.20 del núcleo Linux.
-
-Como en los lanzamientos previos, Feisty permite la actualización directa a partir de una versión previa. La actualización desde la versión 6.10 no es realizada de manera automática, por lo que se requiere de un comando especial para activar Update Manager. Otros métodos, como dist-upgrade (una característica de apt-get), no son recomendados; algunos usuarios reportaron serios problemas en el proceso.
+> El 8 de julio de 2004, Mark Shuttleworth y la empresa Canonical Ltd. anunciaron la creación de la distribución Ubuntu. Ésta tuvo una financiación inicial de 10 millones de dólares (US$). El proyecto nació por iniciativa de algunos programadores de los proyectos Debian, Gnome porque se encontraban decepcionados con la manera de operar del proyecto Debian, la distribución Linux sin ánimo de lucro más popular del mundo. De acuerdo con sus fundadores, Debian era un proyecto demasiado burocrático donde no existían responsabilidades definidas y donde cualquier propuesta interesante se ahogaba en un mar de discusiones. Asimismo, Debian no ponía énfasis en estabilizar el desarrollo de sus versiones de prueba y sólo proporcionaba auditorías de seguridad a su versión estable, la cual era utilizada sólo por una minoría debido a la poca o nula vigencia que poseía en términos de la tecnología Linux actual. Tras formar un grupo multidisciplinario, los programadores decidieron buscar el apoyo económico de Mark Shuttleworth, un emprendedor sudafricano que vendió la empresa Thawte a VeriSign, cuatro años después de fundarla en el garaje de su domicilio, por 575 millones de dólares estadounidenses. Shuttleworth vio con simpatía el proyecto y decidió convertirlo en una iniciativa auto sostenible, combinando su experiencia en la creación de nuevas empresas con el talento y la experiencia de los programadores de la plataforma Linux. De esta forma nació la empresa Canonical, la cual se encarga de sostener económicamente el proyecto mediante la comercialización de servicios y soporte técnico a otras empresas. Mientras los programadores armaban el sistema, Shuttleworth aprovechó la ocasión para aplicar una pequeña campaña de mercadotecnia para despertar interés en "la distribución-sin-nombre" (en inglés: the no-name-distro). Tras varios meses de trabajo y un breve período de pruebas, la primera versión de Ubuntu (Warty Warthog) fue lanzada el 20 de octubre de 2004. Ubuntu es un sistema operativo basado en Linux y que se distribuye como software libre, el cual incluye su propio entorno de escritorio denominado Unity. Su nombre proviene de la ética homónima, en la que se habla de la existencia de uno mismo como cooperación de los demás. Está orientado al usuario novel y promedio, con un fuerte enfoque en la facilidad de uso y en mejorar la experiencia de usuario. Está compuesto de múltiple software normalmente distribuido bajo una licencia libre o de código abierto. Estadísticas web sugieren que la cuota de mercado de Ubuntu dentro de las distribuciones Linux es, aproximadamente, del 49%, y con una tendencia a aumentar como servidor web. Y un importante incremento activo de 20 millones de usuarios para fines del 2011. Cada lanzamiento de Ubuntu posee un nombre en clave, como también un número de versión basado en el año y el mes del lanzamiento. Por ejemplo, la versión 5.04 fue lanzada en abril de 2005. Cada versión de Ubuntu es lanzada con seis meses de diferencia con respecto al último lanzamiento, aunque el lanzamiento de la versión 6.06 se demoró más de seis meses, debido a que Canonical Ltd. quería desarrollar una distribución a la que fuera posible dar soporte técnico durante tres años en el escritorio y cinco años en el servidor. Canonical provee de soporte técnico y actualizaciones de la seguridad para la mayoría de las versiones de Ubuntu durante 18 meses, a partir de la fecha del lanzamiento. Actualmente existen tres versiones de Ubuntu que cuentan con soporte técnico: la versión 6.06 LTS (Long term support), la versión 6.10 y la versión 7.04. La versión reciente es la 7.04, cuyo nombre en clave es "Feisty Fawn". Este lanzamiento incluyó un reemplazo del demonio init llamado Upstart, así como mejoras en el uso de la memoria de softwares como Evolution y Nautilus. Además incluyó GNOME 2.18.1, Mozilla Firefox 2.0.0.3, OpenOffice.org 2.2, Xorg 7.2, GCC 4.1.1, y la versión 2.6.20 del núcleo Linux. Como en los lanzamientos previos, Feisty permite la actualización directa a partir de una versión previa. La actualización desde la versión 6.10 no es realizada de manera automática, por lo que se requiere de un comando especial para activar Update Manager. Otros métodos, como dist-upgrade (una característica de apt-get), no son recomendados; algunos usuarios reportaron serios problemas en el proceso.
 
 
-```
+
 ## Historia de Windows ![Tux, the Linux mascot](/assets/prueba/windows-logos.png) 
 
-```sh
-En 1975 Bill Gates y Paul Allen fundaron la compañía Microsoft en Estados Unidos, con el objetivo de desarrollar y comercializar programas para ejecutar el Altair 8800, un microordenador diseñado en 1974. Gates y Allen desarrollaron el primer lenguaje de programación para el Altair Basic.
 
-En 1979 Microsoft lanzó al público el primer sistema operativo llamado Xenix, que resulta obsoleto en la actualidad. En 1981 creó un nuevo sistema operativo que le permitió alcanzar el éxito, el DOS (de la sigla en inglés Disk Operative System que significa Sistema operativo de disco).
+> En 1975 Bill Gates y Paul Allen fundaron la compañía Microsoft en Estados Unidos, con el objetivo de desarrollar y comercializar programas para ejecutar el Altair 8800, un microordenador diseñado en 1974. Gates y Allen desarrollaron el primer lenguaje de programación para el Altair Basic.  En 1979 Microsoft lanzó al público el primer sistema operativo llamado Xenix, que resulta obsoleto en la actualidad. En 1981 creó un nuevo sistema operativo que le permitió alcanzar el éxito, el DOS (de la sigla en inglés Disk Operative System que significa Sistema operativo de disco). En 1985 se lanzó la primera versión del actualmente conocido sistema operativo Windows. Tiempo más tarde, en 1989, apareció otro producto que también continúa vigente en la actualidad y que funciona junto con la interfaz de Windows: el paquete informático Microsoft Office, que consiste en un conjunto de aplicaciones integradas, como el Microsoft Word o el Microsoft Excel. En 1990 Microsoft lanzó Windows 3.0, una nueva versión del sistema operativo. A medida que desarrolló versiones mejoradas, modificó el correspondiente número del nombre. Sin embargo, en 1995 lanzó el Windows 95 que ofrecía una interfaz completamente nueva con un explorador de archivos mejorado, un menú de inicio de acceso rápido y una mejor compatibilidad de hardware, entre otras ventajas. A partir de 2012 se lanzó el sistema operativo Windows 8 con un nuevo diseño de imagen que resultó más interactivo y que permitió ser ejecutado a través de las pantallas táctiles. Fue una versión del software pensada para ser ejecutada desde otros dispositivos, como los teléfonos móviles o tabletas, y para convivir con el auge de Internet y las redes sociales.
 
-En 1985 se lanzó la primera versión del actualmente conocido sistema operativo Windows. Tiempo más tarde, en 1989, apareció otro producto que también continúa vigente en la actualidad y que funciona junto con la interfaz de Windows: el paquete informático Microsoft Office, que consiste en un conjunto de aplicaciones integradas, como el Microsoft Word o el Microsoft Excel.
-
-En 1990 Microsoft lanzó Windows 3.0, una nueva versión del sistema operativo. A medida que desarrolló versiones mejoradas, modificó el correspondiente número del nombre. Sin embargo, en 1995 lanzó el Windows 95 que ofrecía una interfaz completamente nueva con un explorador de archivos mejorado, un menú de inicio de acceso rápido y una mejor compatibilidad de hardware, entre otras ventajas.
-
-A partir de 2012 se lanzó el sistema operativo Windows 8 con un nuevo diseño de imagen que resultó más interactivo y que permitió ser ejecutado a través de las pantallas táctiles. Fue una versión del software pensada para ser ejecutada desde otros dispositivos, como los teléfonos móviles o tabletas, y para convivir con el auge de Internet y las redes sociales.
-```
 
 ## Comandos basicos de Linux
 
@@ -368,41 +330,38 @@ Una vez creada, entonces es cuando podrás instalar Ubuntu junto a OS X, y no an
 ```
 
 Tercer paso: Instalando Ubuntu en tu disco duro:
-> Por seguridad,  antes de hacer la partición BootCam, te recomendaría que hicieras una copia de seguridad de tus datos en un disco externo. 
+ Por seguridad,  antes de hacer la partición BootCam, te recomendaría que hicieras una copia de seguridad de tus datos en un disco externo. 
 Como segunda recomendación, se deberia probar el nuevo sistema en modo “Live”, esto es, sin instalarlo.
-Esto se debe en muchos casos Linux y el hardware de tu máquina no siempre funcionan a la perfección, así que mejor probar que la gráfica, tu adaptador WiFi o tu tarjeta de sonido funcionan perfectamente y no pasar el trabajo de instalarlo para tener una mala experiencia. 
+
+ Esto se debe en muchos casos Linux y el hardware de tu máquina no siempre funcionan a la perfección, así que mejor probar que la gráfica, tu adaptador WiFi o tu tarjeta de sonido funcionan perfectamente y no pasar el trabajo de instalarlo para tener una mala experiencia. 
 Una vez comprobado, es tan sencillo como ejecutar el instalador y empezar con la configuración.
 
 
-```sh
-Realmente no hay mucho que configurar instalando Ubuntu, eso es lo bueno de este sistema.
 
-Está pensado para el usuario medio, y al margen de la configuración de la BIOS y tal, es más que sencillo.
+> Realmente no hay mucho que configurar instalando Ubuntu, eso es lo bueno de este sistema.
 
-Lo primero que nos pedirá será el idioma de la instalación, aquí puedes usar el que más rabia te dé.
+> Está pensado para el usuario medio, y al margen de la configuración de la BIOS y tal, es más que sencillo.
 
-Eso sí, no hagas como cuando le regalamos un móvil a mi abuela y por accidente cambió el idioma al vasco, vaya odisea volver a configurarlo…
+> Lo primero que nos pedirá será el idioma de la instalación, aquí puedes usar el que más prefieras te dé.
 
-Después nos pedirá comprobar que las condiciones para instalar Ubuntu son las adecuadas, esto es:
+> Después nos pedirá comprobar que las condiciones para instalar Ubuntu son las adecuadas, esto es:
 
-que en tu disco duro tengas más de 6,7 Gb libres
-comprobar que estés conectado a la toma de corriente
-y preferiblemente que tengas una conexión a internet
-Además de esto podremos escoger si queremos descargar actualizaciones mientras se instala y bajar unos complementos para manejar ficheros .mp3
+> que en tu disco duro tengas más de 6,7 Gb libres
+> comprobar que estés conectado a la toma de corriente
+> y preferiblemente que tengas una conexión a internet
+> Además de esto podremos escoger si queremos descargar actualizaciones mientras se instala y bajar unos complementos para manejar ficheros .mp3
 
-Una vez lo tengamos listo, se pedirá como se quiere instalar Ubuntu en el disco, si elegimos junto a Windows nos dará opción para escoger el espacio que asignaremos a cada sistema.
+> Una vez lo tengamos listo, se pedirá como se quiere instalar Ubuntu en el disco, si elegimos junto a Windows nos dará opción para escoger el espacio que asignaremos a cada sistema.
 
-(IMPORTANTE: A la hora de escoger el disco de instalación, asegurence que sea el que fue asignado con BootCamp, sino se sobreescribirá OSX y se perdera sistema principal.)
-```
+> (IMPORTANTE: A la hora de escoger el disco de instalación, asegurence que sea el que fue asignado con BootCamp, sino se sobreescribirá OSX y se perdera sistema principal.)
+
 Instalando
 
-```sh
-A medida que se vaya instalando nos irá mostrando unas diapositivas para familiarizarnos y nos pedirá más configuraciones como nuestra zona horaria, el idioma del teclado y nos pedirá que creemos un nombre de usuario y una contraseña para iniciar sesión.
 
-Este último paso es importante, pues si olvidas la contraseña puedes tener problemas a la hora de actualizar, instalar software o realizar determinadas acciones que sean importantes como cambiar la configuración del sistema o cosas por el estilo.
+> A medida que se vaya instalando nos irá mostrando unas diapositivas para familiarizarnos y nos pedirá más configuraciones como nuestra zona horaria, el idioma del teclado y nos pedirá que creemos un nombre de usuario y una contraseña para iniciar sesión.
+> Este último paso es importante, pues si olvidas la contraseña puedes tener problemas a la hora de actualizar, instalar software o realizar determinadas acciones que sean importantes como cambiar la configuración del sistema o cosas por el estilo.
+> Y una vez configurado todo esto, tu sistema se reiniciará y que  se debe pulsar Alt al inicio como cuando arrancamos la instalación, una vez te aparezcan los iconos de los discos, escoges en el que hayas instalado Linux y ya aparecerá.
 
-Y una vez configurado todo esto, tu sistema se reiniciará y que  se debe pulsar Alt al inicio como cuando arrancamos la instalación, una vez te aparezcan los iconos de los discos, escoges en el que hayas instalado Linux y ya aparecerá.
-```
 
 
 
