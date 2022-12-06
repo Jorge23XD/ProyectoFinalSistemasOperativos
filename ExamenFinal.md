@@ -114,6 +114,50 @@ A partir de 2012 se lanzó el sistema operativo Windows 8 con un nuevo diseño d
 |hostname | Se utiliza si deseas conocer el nombre de tu host/red, simplemente escribe hostname. Agregar un -I al final mostrará la dirección IP de tu red. |
 | useradd, userdel| Dado que Linux es un sistema multiusuario, esto significa que más de una persona puede interactuar con el mismo sistema al mismo tiempo. useradd se usa para crear un nuevo usuario, mientras que passwd agrega una contraseña a la cuenta de ese usuario. Para agregar una nueva persona llamada John, escribe useradd John y luego para agregar su contraseña, escribe passwd 123456789. Eliminar un usuario es muy similar a agregar un nuevo usuario. Para eliminar la cuenta de usuario, escribe userdel NombredeUsuario|
 
+# Dispositivos de entrada y salida
+ > Los dispositivos de entrada y salida o unidades de entrada/salida son los equipos físicos conectados a la computadora. Estos dispositivos permiten comunicar información entre el usuario y la computadora o manejar un soporte de información.
+
+
+## Dispositivos de entrada
+
+> Los dispositivos de entrada son aquellos equipos encargados de introducir datos en la memoria central de la computadora para su tratamiento. A través de ellos se transforma la información de entrada en señales eléctricas.
+
+- Teclado: permite la comunicación entre el usuario y la computadora. Dispone de un conjunto de teclas agrupadas en cuatro bloques denominados alfabético, numérico, de control y teclas de función.
+
+- Ratón o mouse de computadora: es una unidad de entrada constituida por una pequeña cajetilla con controles que se adapta a la mano y permite el movimiento del cursor en la pantalla. Existen ratones mecánicos, ópticos y opto-mecánicos.
+-  Micrófono: son dispositivos que reciben las señales de audio y las transforman en señales eléctricas que son procesadas por el computador.
+
+ - Cámara fotográfica digital: dispositivo que se puede utilizar para introducir imágenes sin necesidad de revelado.
+
+ - Cámara digital de video o WebCam: es una cámara que transmite imágenes en tiempo real a una computadora.
+
+## Dispositivos de salida
+> Los dispositivos de salida son los equipos que presentan la información al usuario de forma comprensible, ya sea a través de imágenes, texto, sonidos o táctil. Estos realizan la función de extraer datos de la memoria central hacia el exterior.
+
+-  Pantalla o display: consiste en un sistema de representación mediante configuraciones de puntos luminosos denominados píxeles. La resolución de pantalla es el número de píxeles que posee. En las computadoras de escritorio o desktop se le conoce como monitor.
+
+-  Impresoras: son unidades de salida de datos soportados en papel. Existen diversos tipos de impresoras, entre ellas las impresoras térmicas, electrostáticas, de tinta y láser.
+
+-  Altavoz: son dispositivos que transforman las señales eléctricas en señales de audio.
+
+-  Trazadores gráficos o plotters: son dispositivos capaces de imprimir un gráfico o dibujo.
+
+-  Robots: son unidades de salida que poseen un complemento mecánico capaz de realizar movimientos ordenados desde la computadora.
+
+## Dispositivos mixtos
+> Los  dispositivos mixtos permiten la introducción y extracción de datos en la memoria central.
+
+- Pantalla táctil: es una pantalla que incluye un dispositivo que reconoce la zona de la misma donde se ha realizado un pequeño contacto con el dedo.
+
+- Impresoras multifunción: son equipos con la capacidad de realizar varias funciones, como imprimir, escanear y fotocopiar.
+
+- Teclado MIDI (Musical Instrument Digital Interface): son teclados musicales parecidos a pianos electrónicos que permiten la interconexión de distintos instrumentos musicales y accesorios electrónicos. Pueden recibir tanto las señales de instrumentos musicales como generar sonidos.
+
+- Terminales punto de venta: son unidades de entrada/salida especiales para aplicaciones de tipo comercial. Estos dispositivos han sustituido las cajas registradoras antiguas.
+
+- Terminales para operaciones financieras: mejor conocidos como cajeros automáticos, son unidades conectadas a una computadora central de una entidad financiera para la realización de operaciones de los clientes de dicha entidad.
+
+
 
 ## Proceso
 > Un proceso no es más que un programa en ejecución, e incluye los valores actuales del contador de programa, los registros y las variables. Conceptualmente cada unos de estos procesos tiene su propia CPU virtual. Desde luego, en la realidad la verdadera CPU conmuta de un proceso a otro.
@@ -131,7 +175,8 @@ El sistema asigna un número de identificación de proceso (número PID) a cada 
 
 - SRTN: Shortest Remaining Time Next (menor tiempo restante a continuación). Algoritmo apropiativo donde el planificador siempre selecciona el proceso cuyo tiempo restante de ejecución sea el más corto. De nuevo, se debe conocer el tiempo de ejecución de antemano. Cuando llega un nuevo trabajo, su tiempo total se compara con el tiempo restante del proceso actual. Si el nuevo trabajo necesita menos tiempo para terminar que el proceso actual, éste se suspende y el nuevo trabajo se inicia. Ese esquema permite que los trabajos cortos nuevos obtengan un buen servicio.
 
-
+ # Almacenamiento
+ > Usualmente, el almacenamiento se da en forma de una unidad de estado sólido o un disco duro. El almacenamiento le permite acceder y almacenar sus aplicaciones, sistema operativo y archivos por un tiempo indefinido.
 
 # Jerarquía de memoria
 >   Es la organización piramidal de la memoria en niveles que tienen las computadoras.
@@ -248,51 +293,6 @@ int main(int argc, char *argv[]) {
     return 0;
 }
 ```
- # Almacenamiento
- > Usualmente, el almacenamiento se da en forma de una unidad de estado sólido o un disco duro. El almacenamiento le permite acceder y almacenar sus aplicaciones, sistema operativo y archivos por un tiempo indefinido.
-
-# Dispositivos de entrada y salida
- > Los dispositivos de entrada y salida o unidades de entrada/salida son los equipos físicos conectados a la computadora. Estos dispositivos permiten comunicar información entre el usuario y la computadora o manejar un soporte de información.
-
-
-## Dispositivos de entrada
-
-> Los dispositivos de entrada son aquellos equipos encargados de introducir datos en la memoria central de la computadora para su tratamiento. A través de ellos se transforma la información de entrada en señales eléctricas.
-
-- Teclado: permite la comunicación entre el usuario y la computadora. Dispone de un conjunto de teclas agrupadas en cuatro bloques denominados alfabético, numérico, de control y teclas de función.
-
-- Ratón o mouse de computadora: es una unidad de entrada constituida por una pequeña cajetilla con controles que se adapta a la mano y permite el movimiento del cursor en la pantalla. Existen ratones mecánicos, ópticos y opto-mecánicos.
--  Micrófono: son dispositivos que reciben las señales de audio y las transforman en señales eléctricas que son procesadas por el computador.
-
- - Cámara fotográfica digital: dispositivo que se puede utilizar para introducir imágenes sin necesidad de revelado.
-
- - Cámara digital de video o WebCam: es una cámara que transmite imágenes en tiempo real a una computadora.
-
-## Dispositivos de salida
-> Los dispositivos de salida son los equipos que presentan la información al usuario de forma comprensible, ya sea a través de imágenes, texto, sonidos o táctil. Estos realizan la función de extraer datos de la memoria central hacia el exterior.
-
--  Pantalla o display: consiste en un sistema de representación mediante configuraciones de puntos luminosos denominados píxeles. La resolución de pantalla es el número de píxeles que posee. En las computadoras de escritorio o desktop se le conoce como monitor.
-
--  Impresoras: son unidades de salida de datos soportados en papel. Existen diversos tipos de impresoras, entre ellas las impresoras térmicas, electrostáticas, de tinta y láser.
-
--  Altavoz: son dispositivos que transforman las señales eléctricas en señales de audio.
-
--  Trazadores gráficos o plotters: son dispositivos capaces de imprimir un gráfico o dibujo.
-
--  Robots: son unidades de salida que poseen un complemento mecánico capaz de realizar movimientos ordenados desde la computadora.
-
-## Dispositivos mixtos
-> Los  dispositivos mixtos permiten la introducción y extracción de datos en la memoria central.
-
-- Pantalla táctil: es una pantalla que incluye un dispositivo que reconoce la zona de la misma donde se ha realizado un pequeño contacto con el dedo.
-
-- Impresoras multifunción: son equipos con la capacidad de realizar varias funciones, como imprimir, escanear y fotocopiar.
-
-- Teclado MIDI (Musical Instrument Digital Interface): son teclados musicales parecidos a pianos electrónicos que permiten la interconexión de distintos instrumentos musicales y accesorios electrónicos. Pueden recibir tanto las señales de instrumentos musicales como generar sonidos.
-
-- Terminales punto de venta: son unidades de entrada/salida especiales para aplicaciones de tipo comercial. Estos dispositivos han sustituido las cajas registradoras antiguas.
-
-- Terminales para operaciones financieras: mejor conocidos como cajeros automáticos, son unidades conectadas a una computadora central de una entidad financiera para la realización de operaciones de los clientes de dicha entidad.
 
 
 
