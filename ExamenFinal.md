@@ -36,7 +36,7 @@ En 2015, con Mac OS X 10.11 El Capitan Apple, optó por centrarse en cambios en 
 
 
 
-## Historia de Ubuntu
+## Historia de Ubuntu![Tux, the Linux mascot](/assets/prueba/ubuntu.png) 
 
 ```sh
 El 8 de julio de 2004, Mark Shuttleworth y la empresa Canonical Ltd. anunciaron la creación de la distribución Ubuntu. Ésta tuvo una financiación inicial de 10 millones de dólares (US$). El proyecto nació por iniciativa de algunos programadores de los proyectos Debian, Gnome porque se encontraban decepcionados con la manera de operar del proyecto Debian, la distribución Linux sin ánimo de lucro más popular del mundo.
