@@ -8,7 +8,7 @@
 ## Sistema operativo
 > El sistema operativo es el software que coordina y dirige todos los servicios y aplicaciones que utiliza el usuario en una computadora, por eso es el más importante y fundamental. Se trata de programas que permiten y regulan los aspectos más básicos del sistema. Los sistemas operativos más utilizados son Windows, Linux, OS/2 y DOS
 
-![Tux, the Linux mascot](/assets/prueba/OpenSource.png) 
+![Tux, the Linux mascot](/prueba/OpenSource.png) 
 ## Open Source
 > Es un modelo de desarrollo de software basado en la colaboración abierta. Se enfoca en los beneficios prácticos (acceso al código fuente) y en cuestiones éticas o de libertad que tanto se destacan en el software libre.
 
