@@ -165,7 +165,7 @@ int main(int argc, char *argv[]) {
 
  - Cámara digital de video o WebCam: es una cámara que transmite imágenes en tiempo real a una computadora.
 
-# Dispositivos de salida
+## Dispositivos de salida
 > Los dispositivos de salida son los equipos que presentan la información al usuario de forma comprensible, ya sea a través de imágenes, texto, sonidos o táctil. Estos realizan la función de extraer datos de la memoria central hacia el exterior.
 
 -  Pantalla o display: consiste en un sistema de representación mediante configuraciones de puntos luminosos denominados píxeles. La resolución de pantalla es el número de píxeles que posee. En las computadoras de escritorio o desktop se le conoce como monitor.
@@ -178,7 +178,7 @@ int main(int argc, char *argv[]) {
 
 -  Robots: son unidades de salida que poseen un complemento mecánico capaz de realizar movimientos ordenados desde la computadora.
 
-# Dispositivos mixtos
+## Dispositivos mixtos
 > Los  dispositivos mixtos permiten la introducción y extracción de datos en la memoria central.
 
 - Pantalla táctil: es una pantalla que incluye un dispositivo que reconoce la zona de la misma donde se ha realizado un pequeño contacto con el dedo.
