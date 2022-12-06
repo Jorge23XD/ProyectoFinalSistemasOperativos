@@ -121,7 +121,7 @@ A partir de 2012 se lanzó el sistema operativo Windows 8 con un nuevo diseño d
  > Los dispositivos de entrada y salida o unidades de entrada/salida son los equipos físicos conectados a la computadora. Estos dispositivos permiten comunicar información entre el usuario y la computadora o manejar un soporte de información.
 
 
-## Dispositivos de entrada
+## Dispositivos de entrada ![Tux, the Linux mascot](/assets/prueba/entrada.png) 
 
 > Los dispositivos de entrada son aquellos equipos encargados de introducir datos en la memoria central de la computadora para su tratamiento. A través de ellos se transforma la información de entrada en señales eléctricas.
 
@@ -134,7 +134,7 @@ A partir de 2012 se lanzó el sistema operativo Windows 8 con un nuevo diseño d
 
  - Cámara digital de video o WebCam: es una cámara que transmite imágenes en tiempo real a una computadora.
 
-## Dispositivos de salida
+## Dispositivos de salida![Tux, the Linux mascot](/assets/prueba/salida.png) 
 > Los dispositivos de salida son los equipos que presentan la información al usuario de forma comprensible, ya sea a través de imágenes, texto, sonidos o táctil. Estos realizan la función de extraer datos de la memoria central hacia el exterior.
 
 -  Pantalla o display: consiste en un sistema de representación mediante configuraciones de puntos luminosos denominados píxeles. La resolución de pantalla es el número de píxeles que posee. En las computadoras de escritorio o desktop se le conoce como monitor.
@@ -147,7 +147,7 @@ A partir de 2012 se lanzó el sistema operativo Windows 8 con un nuevo diseño d
 
 -  Robots: son unidades de salida que poseen un complemento mecánico capaz de realizar movimientos ordenados desde la computadora.
 
-## Dispositivos mixtos
+## Dispositivos mixtos![Tux, the Linux mascot](/assets/prueba/mixtos.png) 
 > Los  dispositivos mixtos permiten la introducción y extracción de datos en la memoria central.
 
 - Pantalla táctil: es una pantalla que incluye un dispositivo que reconoce la zona de la misma donde se ha realizado un pequeño contacto con el dedo.
