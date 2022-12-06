@@ -16,7 +16,7 @@
 
 ![Tux, the Linux mascot](/assets/prueba/OpenSource.png) 
 
-## Historia de MacOS
+## Historia de MacOS ![Tux, the Linux mascot](/assets/prueba/evolucion_Mac.png) 
 
 ```sh
 La primera vez que se habla del SO de Apple se hace referencia a los primeros años de la empresa, allá por 1984. En esa época se desarrolló la primera versión de Mac OS. Este sistema operativo fue en el que se basaron los ordenadores Apple durante más de dos décadas.
