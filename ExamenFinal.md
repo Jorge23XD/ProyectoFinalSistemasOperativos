@@ -330,7 +330,8 @@ Una vez creada, entonces es cuando podrás instalar Ubuntu junto a OS X, y no an
 ```
 
 Tercer paso: Instalando Ubuntu en tu disco duro:
- Por seguridad,  antes de hacer la partición BootCam, te recomendaría que hicieras una copia de seguridad de tus datos en un disco externo. 
+
+Por seguridad,  antes de hacer la partición BootCam, te recomendaría que hicieras una copia de seguridad de tus datos en un disco externo. 
 Como segunda recomendación, se deberia probar el nuevo sistema en modo “Live”, esto es, sin instalarlo.
 
  Esto se debe en muchos casos Linux y el hardware de tu máquina no siempre funcionan a la perfección, así que mejor probar que la gráfica, tu adaptador WiFi o tu tarjeta de sonido funcionan perfectamente y no pasar el trabajo de instalarlo para tener una mala experiencia. 
