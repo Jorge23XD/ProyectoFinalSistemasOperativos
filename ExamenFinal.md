@@ -353,7 +353,7 @@ Segundo paso: El USB esta creado :
 
 > No obstante, el caso es que quieres probar Linux en tu Mac, y para eso vas a tener que dar un paso intermedio.
 
-> Ese paso intermedio se llama BootCamp, es una herramienta nativa de Mac que te permite instalar otro sistema operativo junto a OS X. .
+> Ese paso intermedio se llama BootCamp, es una herramienta nativa de Mac que te permite instalar otro sistema operativo junto a OS X. 
 
 > Se usa para instalar Windows, pero también te pide instalar Ubuntu.
 
