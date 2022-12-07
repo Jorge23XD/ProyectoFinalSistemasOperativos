@@ -174,7 +174,7 @@ El sistema asigna un número de identificación de proceso (número PID) a cada 
 
 
 
-- SJF: Acrónimo de Shortest Job First (trabajo más corto primero) y algoritmo no apropiativo que supone que los tiempos de ejecución se conocen de antemano. Cuando hay varios trabajos de igual importancia esperando a ser iniciados en la cola de entrada, el planificador selecciona el trabajo más corto primero
+- SJF: Acrónimo de Shortest Job First (trabajo más corto primero) y algoritmo no apropiativo que supone que los tiempos de ejecución se conocen de antemano. Cuando hay varios trabajos de igual importancia esperando a ser iniciados en la cola de entrada, el planificador selecciona el trabajo más corto primero.
 
 - SRTN: Shortest Remaining Time Next (menor tiempo restante a continuación). Algoritmo apropiativo donde el planificador siempre selecciona el proceso cuyo tiempo restante de ejecución sea el más corto. De nuevo, se debe conocer el tiempo de ejecución de antemano. Cuando llega un nuevo trabajo, su tiempo total se compara con el tiempo restante del proceso actual. Si el nuevo trabajo necesita menos tiempo para terminar que el proceso actual, éste se suspende y el nuevo trabajo se inicia. Ese esquema permite que los trabajos cortos nuevos obtengan un buen servicio.
 
