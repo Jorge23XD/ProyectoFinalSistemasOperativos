@@ -378,7 +378,7 @@ Una vez comprobado, es tan sencillo como ejecutar el instalador y empezar con la
 
 > Está pensado para el usuario medio, y al margen de la configuración de la BIOS y tal, es más que sencillo.
 
-> Lo primero que nos pedirá será el idioma de la instalación, aquí puedes usar el que más prefieras te dé.
+> Lo primero que nos pedirá será el idioma de la instalación, aquí puedes usar el que más prefieras.
 
 > Después nos pedirá comprobar que las condiciones para instalar Ubuntu son las adecuadas, esto es:
 
